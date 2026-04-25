@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/lib/">
+    <Project Path="Amazonia.EasyLambda.UnitTests/Amazonia.EasyLambda.UnitTests.csproj" />
+    <Project Path="Amazonia.EasyLambda/Amazonia.EasyLambda.csproj" />
+  </Folder>
+</Solution>
